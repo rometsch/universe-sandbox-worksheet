@@ -12,3 +12,6 @@ You can think of it as a guide for the students' first steps with [[http://unive
 
 * Lab Journal
 Additionally, students are encouraged to note their observations and findings in a lab journal for which lines are printed on the back side of the sheet, along with some example entry.
+
+* Time Requirements
+With a 15-20 minute introduction, I advice to plan for 90 minutes in total with a 10-15 minute wrap up at the end to exchange and discuss findings.
