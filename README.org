@@ -1,4 +1,4 @@
-#+title: A tiny Universe Sandbox 2 tutorial
+#+title: Gamification of Astro Teaching
 #+author: Thomas Rometsch
 
 * Purpose
