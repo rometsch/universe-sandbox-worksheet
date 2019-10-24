@@ -1,0 +1,85 @@
+\documentclass[11pt,A4]{article}
+\usepackage{fullpage}
+\usepackage[top=0.5cm, bottom=4cm, left=2cm, right=2cm]{geometry}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+\usepackage{lastpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\usepackage{mathrsfs}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{pgffor}
+
+\hypersetup{%
+  colorlinks=true,
+  linkcolor=blue,
+  linkbordercolor={0 0 1}
+}
+
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.05in}
+
+\pagestyle{fancyplain}
+\headheight 35pt
+\lhead{\today}
+\chead{\textbf{\Large Erkundung des Sonnensystems}}
+\rhead{CPT -- Uni Tübingen}
+\lfoot{}
+\cfoot{}
+\rfoot{\footnotesize Thomas.Rometsch@uni-tuebingen.de}
+\headsep 1.5em
+
+\begin{document}
+
+\section*{Ziel}
+
+In dieser Aufgabe kannst du einige Eigenschaften des Sonnensystems in einer Simulation beobachten, verstehen und ändern.
+Dadurch lernst du mehr über Planetenbahnen, Gravitation und Sonneneinstrahlung.
+Gleichzeitig wirst du ein Lab Journal führen und deine Erkenntnisse protokollieren und somit einen Einblick in ein Teilbereich des wissenschaftlichen Arbeitens bekommen.
+
+\section*{Methoden}
+
+Zur Simulation des Sonnensystems wird das Computerprogrammm \textit{Universe Sandbox $^2$} verwendet.
+Es berücksichtigt viele verschiedene physikalische Effekte und erlaubt es, die Eigenschaften aller Planeten und Objekte zu ändern, indem das Objekt angeklickt wird und der entsprechende Eintrag angepasst wird.
+
+\section*{Lab Journal}
+
+Dort trägst du alle deine Beobachtungen, Ideen und Gedanken ein, um sie festzuhalten.
+Forscher führen meistens ein solches Journal in irgendeiner Art: digital, analog in einem Heft, als Zettelsammlung, \dots
+Die Form des Eintrags bleibt jedem selbst überlassen.
+Meist besteht ein Eintrag aus mindestens dem Datum und eventuell der Uhrzeit, sowie einem kurzer Titel gefolgt vom Hauptteil..
+
+
+\subsection*{1. Sonne verschwinden lassen}
+Klicke mit der Maus auf die Sonne, sodass auf der rechten Seite des Bildschirms eine Infobox erscheint.
+Drücke jetzt die \textit{Entfernen/Delete} Taste, um die Sonne zu löschen.
+Beobachte was passiert.
+\textit{Notiere die Beobachtung in deinem Lab Journal!}\\\\
+Setzte das Sonnensystem zurück, indem du in der oberen linken Ecke auf das Symbol mit den drei Strichen klickst und dann auf \textit{Open} $\to$ \textit{Solar System}.
+
+\subsection*{2. Die Sonne wird zum Schwarzen Loch}
+Selektiere wieder die Sonne und klicke auf den zweiten Eintrag (702098 km).
+Klicke nocheinmal auf \textit{Radius} und verwende den \textbf{x0.1} Button, um den Radius der Sonne auf ein Paar Kilometer zu verkleinern.
+\textit{Notiere im Lab Journal was passiert!}
+
+\subsection*{3. Temperatur auf der Erde}
+Setzte die Simulation wieder zurück und pausiere die Simulation durch Drücken der Leertaste.
+Wiederhole dann Schritt 2, um die Sonne zum Schwarzen Loche zu machen.
+Jetzt selektiere die Erde und dann im Eigenschaften Fenster die Temperatur.
+Starte die Simulation wieder und beobachte wie sich die Temperatur ändert.
+\textit{Notiere im Lab Journal was passiert!}
+
+\subsection*{4. 5. 6. \dots}
+Experimentiere weiter und notiere was du beobachtest!
+
+\newpage
+
+\providecommand{\myrule}[1]{\rule{#1}{0.2pt}}
+\textit{22.10.19 10:15 : Lab Journal Eintrag\ }\noindent\myrule{0.64\textwidth}\\
+\noindent\myrule{0.1\textwidth}\textit{\ Hier kann ich Beobachtungen, Gedanken, Ideen, \dots eintragen.\ }\myrule{0.3\textwidth}\\
+\foreach \n in {0,...,45}{\noindent\myrule{\textwidth}\\}
+
+
+\end{document}
