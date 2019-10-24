@@ -1,17 +1,17 @@
 #+title: Gamification of Astro Teaching
 #+author: Thomas Rometsch
 
-* Purpose
+** Purpose
 This worksheet was developed for high school students who come to the University of Tübingen for some sort of internship to learn more about astronomy and astrophysics.
 
-* Rationale
+** Rationale
 It's an attempt at using the concept of gameification of learning to spark curiosity for astronomy and to teach principles such as basic consequences of the law of gravity and stellar irradiation.
 
-* Methods
+** Methods
 You can think of it as a guide for the students' first steps with [[http://universesandbox.com/][Universe Sandbox 2]] with the intend to let them freely experiment later.
 
-* Lab Journal
+** Lab Journal
 Additionally, students are encouraged to note their observations and findings in a lab journal for which lines are printed on the back side of the sheet, along with some example entry.
 
-* Time Requirements
+** Time Requirements
 With a 15-20 minute introduction, I advice to plan for 90 minutes in total with a 10-15 minute wrap up at the end to exchange and discuss findings.
