@@ -1,7 +1,14 @@
 #+title: A tiny Universe Sandbox 2 tutorial
 #+author: Thomas Rometsch
 
+* Purpose
 This worksheet was developed for high school students who come to the University of Tübingen for some sort of internship to learn more about astronomy and astrophysics.
+
+* Rationale
 It's an attempt at using the concept of gameification of learning to spark curiosity for astronomy and to teach principles such as basic consequences of the law of gravity and stellar irradiation.
+
+* Methods
 You can think of it as a guide for the students' first steps with [[http://universesandbox.com/][Universe Sandbox 2]] with the intend to let them freely experiment later.
+
+* Lab Journal
 Additionally, students are encouraged to note their observations and findings in a lab journal for which lines are printed on the back side of the sheet, along with some example entry.
